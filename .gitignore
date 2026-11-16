@@ -1,0 +1,7 @@
+# RustDesk server generated keys and database (NEVER commit private keys)
+data/
+hbbs/
+hbbr/
+
+# Local environment overrides
+.env
